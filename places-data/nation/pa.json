@@ -1,0 +1,69 @@
+{
+  "id": "nation/pa",
+  "scale": "nation",
+  "country": "Panama",
+  "iso2": "PA",
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "World Bank (2026): poverty fell to 18.6% in 2025 (US$8.30/day); inequality is high (Gini 49.7, 2024), mainly rural vs urban and Indigenous vs rest.",
+      "stuck": "Possible bottleneck: water, school and health services may not reach rural, Indigenous and Afro-descendant communities at the quality others get.",
+      "nurture": "Strong Indigenous self-government in the comarcas, as in Guna communities planning their own move away from rising seas.",
+      "step": "In one comarca community, the traditional congress picks one service gap (e.g. water) and runs a 3-month community check with local youth.",
+      "learn": "The congress reviews what the check found, what changed after raising it, and whether to repeat it in another community.",
+      "strengths": [
+        "Indigenous self-government (comarcas)",
+        "Canal-linked jobs and logistics",
+        "Strong recent growth"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial (2026): la pobreza bajó a 18,6% en 2025 (US$8,30/día); la desigualdad es alta (Gini 49,7, 2024), sobre todo rural-urbana e indígena.",
+      "stuck": "Posible cuello de botella: agua, escuela y salud quizá no llegan con la misma calidad a comunidades rurales, indígenas y afrodescendientes.",
+      "nurture": "Un fuerte autogobierno indígena en las comarcas, como las comunidades gunas que planifican su propio traslado ante la subida del mar.",
+      "step": "En una comunidad de comarca, el congreso tradicional elige una brecha de servicio (p. ej. agua) y hace con jóvenes locales una revisión de 3 meses.",
+      "learn": "El congreso revisa lo encontrado, qué cambió tras plantearlo y si repetirlo en otra comunidad.",
+      "strengths": [
+        "Autogobierno indígena (comarcas)",
+        "Empleo y logística ligados al Canal",
+        "Fuerte crecimiento reciente"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial (2026): a pobreza caiu para 18,6% em 2025 (US$8,30/dia); a desigualdade é alta (Gini 49,7, 2024), sobretudo rural-urbana e indígena.",
+      "stuck": "Possível gargalo: água, escola e saúde talvez não cheguem com a mesma qualidade a comunidades rurais, indígenas e afrodescendentes.",
+      "nurture": "Um forte autogoverno indígena nas comarcas, como as comunidades guna que planejam sua própria mudança diante da subida do mar.",
+      "step": "Numa comunidade de comarca, o congresso tradicional escolhe uma lacuna de serviço (ex.: água) e faz com jovens locais uma verificação de 3 meses.",
+      "learn": "O congresso revê o que foi encontrado, o que mudou depois de levantá-lo e se vale repetir em outra comunidade.",
+      "strengths": [
+        "Autogoverno indígena (comarcas)",
+        "Empregos e logística ligados ao Canal",
+        "Forte crescimento recente"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Panama Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/panama/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Gini index, Panama",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/PA/indicator/SI.POV.GINI?format=json&mrnev=1",
+      "published": "2024",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "gardi-sugdub-relocation",
+    "omiubp-panama"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

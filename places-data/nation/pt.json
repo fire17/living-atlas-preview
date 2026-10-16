@@ -1,0 +1,69 @@
+{
+  "id": "nation/pt",
+  "scale": "nation",
+  "country": "Portugal",
+  "iso2": "PT",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): 15.6% of people in Portugal cannot keep their home adequately warm (EU 8.8%); old-age dependency ratio is 38.6% (EU 34.5%).",
+      "stuck": "Possible bottleneck: poorly insulated homes and energy costs leave many households, especially older people, cold in winter.",
+      "nurture": "A high share of renewable electricity and parish (freguesia) networks that often know who lives alone.",
+      "step": "In one freguesia, volunteers and a local repair group draught-proof 10 homes of older residents who ask for help, over one winter.",
+      "learn": "Before and after: residents' comfort, indoor temperature (with consent), energy bills, and whether neighbours ask to join.",
+      "strengths": [
+        "High renewable electricity share",
+        "Parish-level community networks",
+        "Mild climate suited to simple fixes"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): el 15,6% de las personas en Portugal no puede mantener su vivienda a una temperatura adecuada (UE 8,8%); dependencia de mayores 38,6%.",
+      "stuck": "Posible cuello de botella: viviendas mal aisladas y el coste de la energía dejan a muchos hogares, sobre todo mayores, con frío en invierno.",
+      "nurture": "Una alta proporción de electricidad renovable y redes de parroquia (freguesia) que suelen saber quién vive solo.",
+      "step": "En una freguesia, voluntarios y un grupo local de reparación aíslan corrientes en 10 casas de mayores que lo pidan, durante un invierno.",
+      "learn": "Antes y después: confort de los residentes, temperatura interior (con permiso), facturas de energía y si otros vecinos piden sumarse.",
+      "strengths": [
+        "Alta proporción de electricidad renovable",
+        "Redes comunitarias de parroquia",
+        "Clima suave para arreglos sencillos"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): 15,6% das pessoas em Portugal não conseguem manter a casa adequadamente aquecida (UE 8,8%); dependência de idosos 38,6%.",
+      "stuck": "Possível gargalo: casas mal isoladas e o custo da energia deixam muitas famílias, sobretudo idosos, com frio no inverno.",
+      "nurture": "Uma alta participação de eletricidade renovável e redes de freguesia que costumam saber quem mora sozinho.",
+      "step": "Numa freguesia, voluntários e um grupo local de consertos vedam frestas em 10 casas de idosos que pedirem ajuda, durante um inverno.",
+      "learn": "Antes e depois: conforto dos moradores, temperatura interna (com consentimento), contas de energia e se vizinhos pedem para participar.",
+      "strengths": [
+        "Alta participação de eletricidade renovável",
+        "Redes comunitárias de freguesia",
+        "Clima ameno para consertos simples"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Inability to keep home adequately warm, Portugal and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes01?hhcomp=TOTAL&rskpovth=TOTAL&unit=PC&geo=PT&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Population structure indicators: old-age dependency ratio, Portugal and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjanind?indic_de=OLDDEP1&geo=PT&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "restart-project",
+    "mens-sheds"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

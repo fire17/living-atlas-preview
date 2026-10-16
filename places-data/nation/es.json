@@ -1,0 +1,68 @@
+{
+  "id": "nation/es",
+  "scale": "nation",
+  "country": "Spain",
+  "iso2": "ES",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): young people in Spain leave the parental home at 30.2 on average (EU 26.3); NEET rate 15-29 is 11.5% (EU 11.0%).",
+      "stuck": "Possible bottleneck: many young adults study or work but cannot afford a first home, which delays independence and family plans.",
+      "nurture": "Strong family solidarity and existing intergenerational home-sharing schemes run by universities and local NGOs.",
+      "step": "In one town, a neighbourhood association and a university pair 5 older residents with spare rooms and 5 students for one term; either can exit.",
+      "learn": "After one term: how both sides feel, money saved, any problems, and whether the association decides to continue.",
+      "strengths": [
+        "Strong family solidarity",
+        "Intergenerational home-sharing schemes",
+        "Lively squares and street life"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): los jóvenes en España dejan el hogar familiar a los 30,2 años de media (UE 26,3); la tasa NEET de 15-29 es 11,5% (UE 11,0%).",
+      "stuck": "Posible cuello de botella: muchos jóvenes estudian o trabajan pero no pueden pagar una primera vivienda, y retrasan su independencia.",
+      "nurture": "Fuerte solidaridad familiar y programas de convivencia intergeneracional ya existentes, impulsados por universidades y ONG locales.",
+      "step": "En un municipio, una asociación vecinal y una universidad emparejan a 5 mayores con habitación libre y 5 estudiantes por un curso; ambos pueden salir.",
+      "learn": "Al acabar el curso: cómo se sienten ambas partes, ahorro, problemas surgidos y si la asociación decide seguir.",
+      "strengths": [
+        "Fuerte solidaridad familiar",
+        "Programas de convivencia intergeneracional",
+        "Plazas y vida de calle"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): os jovens na Espanha saem da casa dos pais aos 30,2 anos em média (UE 26,3); a taxa nem-nem de 15-29 é 11,5% (UE 11,0%).",
+      "stuck": "Possível gargalo: muitos jovens estudam ou trabalham mas não conseguem pagar a primeira moradia, e adiam sua independência.",
+      "nurture": "Forte solidariedade familiar e programas de moradia intergeracional já existentes, levados por universidades e ONGs locais.",
+      "step": "Num município, uma associação de bairro e uma universidade juntam 5 idosos com quarto livre e 5 estudantes por um semestre; ambos podem sair.",
+      "learn": "No fim do semestre: como os dois lados se sentem, economia, problemas e se a associação decide continuar.",
+      "strengths": [
+        "Forte solidariedade familiar",
+        "Programas de moradia intergeracional",
+        "Praças e vida de rua"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Estimated average age of young persons leaving the parental household, Spain and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/yth_demo_030?sex=T&geo=ES&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-04",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Young persons neither in employment nor in education and training (NEET rates), Spain and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_neet_a?age=Y15-29&sex=T&unit=PC_POP&geo=ES&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "fureai-kippu"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

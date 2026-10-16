@@ -1,0 +1,69 @@
+{
+  "id": "nation/cr",
+  "scale": "nation",
+  "country": "Costa Rica",
+  "iso2": "CR",
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "World Bank (2026): poverty fell to 15.2% but inequality stays high (Gini 48.8, 2025); lower secondary completion was 61.4% in 2024 (WB data).",
+      "stuck": "Possible bottleneck: many teens leave school before finishing lower secondary, which may keep gaps between regions and families wide.",
+      "nurture": "Decades of public investment in education, health and forests, including payments that reward landowners for protecting forests (PSA).",
+      "step": "In one high school, students, families and teachers pair each student at risk of leaving with a community mentor for a term; the school board decides.",
+      "learn": "Compare attendance and pass rates of paired students term by term, and ask students and mentors what helped.",
+      "strengths": [
+        "Tradition of universal public services",
+        "Payments for ecosystem services",
+        "Public universities"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial (2026): la pobreza bajó a 15,2% pero la desigualdad sigue alta (Gini 48,8, 2025); 61,4% terminó la secundaria baja en 2024 (datos BM).",
+      "stuck": "Posible cuello de botella: muchos adolescentes dejan el colegio antes de terminar el tercer ciclo, lo que puede mantener amplias las brechas entre regiones.",
+      "nurture": "Décadas de inversión pública en educación, salud y bosques, incluido el pago por servicios ambientales (PSA) a quien protege el bosque.",
+      "step": "En un colegio, estudiantes, familias y docentes emparejan a cada estudiante en riesgo de abandono con un mentor comunitario por un período; decide la junta.",
+      "learn": "Comparar asistencia y aprobación de los estudiantes acompañados período a período, y preguntar a estudiantes y mentores qué ayudó.",
+      "strengths": [
+        "Tradición de servicios públicos universales",
+        "Pago por servicios ambientales",
+        "Universidades públicas"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial (2026): a pobreza caiu para 15,2%, mas a desigualdade segue alta (Gini 48,8, 2025); 61,4% concluíram o fundamental II em 2024 (dados BM).",
+      "stuck": "Possível gargalo: muitos adolescentes deixam a escola antes de concluir o fundamental II, o que pode manter largas as desigualdades entre regiões.",
+      "nurture": "Décadas de investimento público em educação, saúde e florestas, incluindo pagamentos a quem protege a floresta (PSA).",
+      "step": "Numa escola, alunos, famílias e professores ligam cada aluno em risco de abandono a um mentor da comunidade por um período; o conselho escolar decide.",
+      "learn": "Comparar frequência e aprovação dos alunos acompanhados período a período, e perguntar a alunos e mentores o que ajudou.",
+      "strengths": [
+        "Tradição de serviços públicos universais",
+        "Pagamento por serviços ambientais",
+        "Universidades públicas"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Costa Rica Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/costarica/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Lower secondary completion rate, Costa Rica",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/CR/indicator/SE.SEC.CMPT.LO.ZS?format=json&mrnev=1",
+      "published": "2024",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "costa-rica-psa",
+    "plan-ceibal"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

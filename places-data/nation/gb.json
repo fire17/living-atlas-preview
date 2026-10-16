@@ -1,0 +1,69 @@
+{
+  "id": "nation/gb",
+  "scale": "nation",
+  "country": "United Kingdom",
+  "iso2": "GB",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Community Life Survey (England, 2024/25): 7% of adults felt lonely often or always, 9% of 16-24s and 14% of disabled adults; ONS (GB, 2025): 7%.",
+      "stuck": "Possible bottleneck: young adults and disabled people have fewer everyday places to belong, so loneliness concentrates there.",
+      "nurture": "Deep roots of community groups and volunteering, from Incredible Edible food growing to local sheds and clubs.",
+      "step": "One library or community centre opens a weekly evening for 16-24s for 10 weeks, run with young people, who choose the activity.",
+      "learn": "Before and after: a short loneliness question, attendance and return rate, and young people's view on whether to keep it.",
+      "strengths": [
+        "Community groups and volunteering",
+        "Public libraries",
+        "National loneliness measurement"
+      ]
+    },
+    "es": {
+      "context": "Community Life Survey (Inglaterra, 2024/25): el 7% de adultos se sentía solo a menudo o siempre; 9% de 16-24 y 14% con discapacidad; ONS (GB): 7%.",
+      "stuck": "Posible cuello de botella: jóvenes y personas con discapacidad tienen menos lugares cotidianos de pertenencia, y la soledad se concentra ahí.",
+      "nurture": "Raíces profundas de grupos comunitarios y voluntariado, desde los huertos de Incredible Edible hasta talleres y clubes locales.",
+      "step": "Una biblioteca o centro comunitario abre una tarde semanal para jóvenes de 16-24 durante 10 semanas, llevada con ellos, que eligen la actividad.",
+      "learn": "Antes y después: una pregunta breve sobre soledad, asistencia y retorno, y la opinión de los jóvenes sobre si seguir.",
+      "strengths": [
+        "Grupos comunitarios y voluntariado",
+        "Bibliotecas públicas",
+        "Medición nacional de la soledad"
+      ]
+    },
+    "pt": {
+      "context": "Community Life Survey (Inglaterra, 2024/25): 7% dos adultos se sentiam sós com frequência ou sempre; 9% de 16-24 e 14% com deficiência; ONS (GB): 7%.",
+      "stuck": "Possível gargalo: jovens e pessoas com deficiência têm menos lugares cotidianos de pertencimento, e a solidão se concentra aí.",
+      "nurture": "Raízes profundas de grupos comunitários e voluntariado, das hortas do Incredible Edible a oficinas e clubes locais.",
+      "step": "Uma biblioteca ou centro comunitário abre uma noite semanal para jovens de 16-24 por 10 semanas, feita com eles, que escolhem a atividade.",
+      "learn": "Antes e depois: uma pergunta curta sobre solidão, presença e retorno, e a opinião dos jovens sobre continuar.",
+      "strengths": [
+        "Grupos comunitários e voluntariado",
+        "Bibliotecas públicas",
+        "Medição nacional da solidão"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Community Life Survey 2024/25: Loneliness and support networks",
+      "publisher": "GOV.UK (DCMS)",
+      "url": "https://www.gov.uk/government/statistics/community-life-survey-202425-annual-publication/community-life-survey-202425-loneliness-and-support-networks",
+      "published": "2025",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Public opinions and social trends, Great Britain: January 2025",
+      "publisher": "Office for National Statistics",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/january2025",
+      "published": "2025",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "incredible-edible-todmorden",
+    "mens-sheds"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

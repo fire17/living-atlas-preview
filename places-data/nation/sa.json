@@ -1,0 +1,68 @@
+{
+  "id": "nation/sa",
+  "scale": "nation",
+  "country": "Saudi Arabia",
+  "iso2": "SA",
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "UN-Water SDG 6 data: withdrawals equal 974% of renewable freshwater (2023); about 82% of withdrawals go to agriculture (2020).",
+      "stuck": "Possible bottleneck: farming draws groundwater far faster than it renews, putting oases and rural livelihoods at risk.",
+      "nurture": "Centuries of oasis water-sharing knowledge, as in Al-Ahsa, a UNESCO World Heritage oasis landscape.",
+      "step": "One oasis farmers' group trials soil-moisture checks and drip on a few plots for a season, sharing results openly.",
+      "learn": "Measure water used per plot and harvests versus nearby plots; farmers decide whether to extend the practice.",
+      "strengths": [
+        "Oasis water-sharing heritage",
+        "Date-palm farming know-how",
+        "Strong water data reporting"
+      ]
+    },
+    "es": {
+      "context": "Datos ODS 6 de ONU-Agua: las extracciones equivalen al 974% del agua dulce renovable (2023); cerca del 82% va a la agricultura (2020).",
+      "stuck": "Posible cuello de botella: la agricultura extrae agua subterránea mucho más rápido de lo que se renueva, y arriesga oasis y sustento rural.",
+      "nurture": "Siglos de saber para compartir el agua en los oasis, como en Al-Ahsa, paisaje de oasis Patrimonio Mundial de la UNESCO.",
+      "step": "Un grupo de agricultores de un oasis prueba por una temporada medir humedad del suelo y goteo en pocas parcelas, y comparte resultados.",
+      "learn": "Medir agua usada y cosecha por parcela frente a parcelas vecinas; los agricultores deciden si ampliar la práctica.",
+      "strengths": [
+        "Herencia de reparto del agua en oasis",
+        "Saber del cultivo de palmeras datileras",
+        "Buenos datos sobre agua"
+      ]
+    },
+    "pt": {
+      "context": "Dados ODS 6 da ONU-Água: as retiradas equivalem a 974% da água doce renovável (2023); cerca de 82% vão para a agricultura (2020).",
+      "stuck": "Possível gargalo: a agricultura retira água subterrânea muito mais rápido do que ela se renova, pondo oásis e o sustento rural em risco.",
+      "nurture": "Séculos de saber sobre partilha da água nos oásis, como em Al-Ahsa, paisagem de oásis Patrimônio Mundial da UNESCO.",
+      "step": "Um grupo de agricultores de um oásis testa por uma safra medir a umidade do solo e gotejamento em poucos lotes, e compartilha os dados.",
+      "learn": "Medir água usada e colheita por lote frente a lotes vizinhos; os agricultores decidem se ampliam a prática.",
+      "strengths": [
+        "Herança de partilha da água nos oásis",
+        "Saber do cultivo de tamareiras",
+        "Bons dados sobre água"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Saudi Arabia – SDG 6 country data",
+      "publisher": "UN-Water SDG 6 Data Portal",
+      "url": "https://sdg6data.org/en/country-or-area/Saudi%20Arabia",
+      "published": "2023",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources – Saudi Arabia",
+      "publisher": "World Bank",
+      "url": "https://data.worldbank.org/indicator/ER.H2O.FWST.ZS?locations=SA",
+      "published": "2022",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "pico-bonito-water-boards"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

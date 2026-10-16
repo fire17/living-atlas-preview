@@ -1,0 +1,69 @@
+{
+  "id": "nation/bz",
+  "scale": "nation",
+  "country": "Belize",
+  "iso2": "BZ",
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "World Bank (2026): 15.8% lived under US$8.30/day in 2025; the economy leans on tourism, farming, fishing and remittances, all exposed to hurricanes.",
+      "stuck": "Possible bottleneck: when a hurricane or drought hits, households tied to tourism, farming and fishing may have few shared buffers to recover quickly.",
+      "nurture": "Coastal and marine ecosystems that already sustain tourism and fishing jobs, plus growing work to care for them (the blue economy).",
+      "step": "In one coastal village, fishing and tour co-ops map who is hit first by storms and test a small shared recovery fund; members set its rules.",
+      "learn": "After the next storm season: days until members earn again, how many used the fund, and whether members choose to keep it.",
+      "strengths": [
+        "Coastal and marine ecosystems",
+        "Tourism, farming and fishing skills",
+        "Lower secondary completion near 79% (2024)"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial (2026): 15,8% vivía con menos de US$8,30/día en 2025; la economía depende de turismo, agro, pesca y remesas, todos expuestos a huracanes.",
+      "stuck": "Posible cuello de botella: ante un huracán o una sequía, los hogares del turismo, el agro y la pesca quizá tienen pocos colchones comunes para recuperarse.",
+      "nurture": "Ecosistemas costeros y marinos que ya sostienen empleos en turismo y pesca, y un trabajo creciente para cuidarlos (la economía azul).",
+      "step": "En una aldea costera, cooperativas de pesca y turismo mapean quién sufre primero las tormentas y prueban un pequeño fondo común; los socios fijan las reglas.",
+      "learn": "Tras la próxima temporada: días hasta volver a tener ingresos, cuántos usaron el fondo y si los socios deciden mantenerlo.",
+      "strengths": [
+        "Ecosistemas costeros y marinos",
+        "Saberes de turismo, agro y pesca",
+        "Finalización de secundaria baja cerca del 79% (2024)"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial (2026): 15,8% vivia com menos de US$8,30/dia em 2025; a economia depende de turismo, agro, pesca e remessas, todos expostos a furacões.",
+      "stuck": "Possível gargalo: diante de um furacão ou de uma seca, famílias do turismo, do agro e da pesca talvez tenham poucas reservas comuns para se recuperar.",
+      "nurture": "Ecossistemas costeiros e marinhos que já sustentam empregos no turismo e na pesca, e um trabalho crescente para cuidar deles (a economia azul).",
+      "step": "Numa vila costeira, cooperativas de pesca e turismo mapeiam quem sofre primeiro com tempestades e testam um pequeno fundo comum; os sócios definem regras.",
+      "learn": "Após a próxima temporada: dias até voltar a ter renda, quantos usaram o fundo e se os sócios decidem mantê-lo.",
+      "strengths": [
+        "Ecossistemas costeiros e marinhos",
+        "Saberes de turismo, agro e pesca",
+        "Conclusão do fundamental II perto de 79% (2024)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Belize Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/belize/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Lower secondary completion rate, Belize",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/BZ/indicator/SE.SEC.CMPT.LO.ZS?format=json&mrnev=1",
+      "published": "2024",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "costa-rica-psa",
+    "maya-biosphere-community-concessions"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

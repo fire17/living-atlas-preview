@@ -1,7 +1,8 @@
 // Garden Atlas Navigator: authored choices, never an automated rating.
+import {pick} from './i18n.js';
 const P=(en,es)=>({en,es});
 export const navigatorState={};let language='en';let onChange=()=>{};
-const T=x=>x[language];const E=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const T=x=>pick(x,language);const E=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const options=(en,es)=>en.split('|').map((x,i)=>P(x,es.split('|')[i]));
 const scope=options('Person|Family|Community|City|Nation|Region|Humanity','Persona|Familia|Comunidad|Ciudad|Nación|Región|Humanidad');
 const attention=options('What is noticed|What is valued|What is repeated|What is overlooked|Whose voice is missing','Lo que se observa|Lo que se valora|Lo que se repite|Lo que se pasa por alto|Las voces que faltan');

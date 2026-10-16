@@ -1,0 +1,69 @@
+{
+  "id": "nation/ni",
+  "scale": "nation",
+  "country": "Nicaragua",
+  "iso2": "NI",
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "World Bank (2026): growth was 4.9% in 2025 with strong remittances (26.6% of GDP in 2024); poverty is projected at 12.8% in 2026 (US$4.20 line).",
+      "stuck": "Possible bottleneck: with many working-age people abroad, home communities may lose hands and know-how for care, farming and local trades.",
+      "nurture": "A long tradition of community literacy campaigns, and schoolbooks translated into several Indigenous languages.",
+      "step": "In one village or barrio, elders and returning migrants host a weekly skills-and-reading circle for youth; participants choose topics, all voluntary.",
+      "learn": "After 3 months: attendance, skills shared, and whether youth report new local work or plans; participants decide whether to continue.",
+      "strengths": [
+        "Literacy-campaign legacy",
+        "Indigenous languages and territories",
+        "Cooperative farming traditions"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial (2026): crecimiento de 4,9% en 2025 con remesas fuertes (26,6% del PIB en 2024); pobreza proyectada en 12,8% en 2026 (línea US$4,20).",
+      "stuck": "Posible cuello de botella: con muchas personas en edad de trabajar fuera, las comunidades pueden perder manos y saberes para cuidar, cultivar y emprender.",
+      "nurture": "Una larga tradición de campañas comunitarias de alfabetización y libros escolares traducidos a varias lenguas indígenas.",
+      "step": "En una comunidad o barrio, mayores y migrantes que regresan abren un círculo semanal de oficios y lectura para jóvenes; ellos eligen los temas, voluntario.",
+      "learn": "A los 3 meses: asistencia, saberes compartidos y si los jóvenes cuentan nuevos trabajos o planes locales; el grupo decide si sigue.",
+      "strengths": [
+        "Legado de la cruzada de alfabetización",
+        "Lenguas y territorios indígenas",
+        "Tradición cooperativa agrícola"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial (2026): crescimento de 4,9% em 2025 com remessas fortes (26,6% do PIB em 2024); pobreza projetada em 12,8% em 2026 (linha US$4,20).",
+      "stuck": "Possível gargalo: com muitas pessoas em idade ativa fora do país, as comunidades podem perder braços e saberes para cuidar, plantar e empreender.",
+      "nurture": "Uma longa tradição de campanhas comunitárias de alfabetização e livros escolares traduzidos para várias línguas indígenas.",
+      "step": "Numa comunidade ou bairro, idosos e migrantes que voltaram abrem uma roda semanal de ofícios e leitura para jovens; eles escolhem os temas, voluntária.",
+      "learn": "Após 3 meses: participação, saberes trocados e se os jovens relatam novos trabalhos ou planos locais; o grupo decide se continua.",
+      "strengths": [
+        "Legado da cruzada de alfabetização",
+        "Línguas e territórios indígenas",
+        "Tradição cooperativa agrícola"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Nicaragua Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/nicaragua/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Personal remittances received (% of GDP), Nicaragua",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/NI/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json&mrnev=1",
+      "published": "2024",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "nicaragua-literacy-crusade",
+    "awas-tingni"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "region/middle-east",
+  "scale": "region",
+  "country": null,
+  "iso2": null,
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "UNICEF: MENA is the most water-scarce region; about 41 million people lack safely managed drinking water and 66 million basic sanitation.",
+      "stuck": "Possible bottleneck: water scarcity, worsened by heat and losses, limits health, farming and young people's prospects.",
+      "nurture": "Ancient water-sharing traditions such as aflaj and qanats, and young, connected populations eager to contribute.",
+      "step": "A neighbourhood or village forms a small water circle: maps leaks and uses, then tries one saving practice for 3 months.",
+      "learn": "Compare water use, supply days and costs before and after; share findings with nearby communities so they can adapt.",
+      "strengths": [
+        "Ancient water-sharing systems",
+        "Young populations",
+        "Strong family and community ties"
+      ]
+    },
+    "es": {
+      "context": "UNICEF: MENA es la región más escasa en agua; 41 millones sin agua potable segura y 66 millones sin saneamiento básico.",
+      "stuck": "Posible cuello de botella: la escasez de agua, agravada por el calor y las pérdidas, limita salud, agricultura y futuro de la juventud.",
+      "nurture": "Antiguas tradiciones de reparto del agua como los aflaj y qanats, y poblaciones jóvenes y conectadas con ganas de aportar.",
+      "step": "Un barrio o aldea forma un pequeño círculo del agua: mapea fugas y usos, y prueba una práctica de ahorro durante 3 meses.",
+      "learn": "Comparar consumo, días de suministro y costos antes y después; compartir lo aprendido con comunidades vecinas.",
+      "strengths": [
+        "Antiguos sistemas de reparto del agua",
+        "Poblaciones jóvenes",
+        "Fuertes lazos familiares y comunitarios"
+      ]
+    },
+    "pt": {
+      "context": "UNICEF: MENA é a região mais escassa em água; 41 milhões sem água potável segura e 66 milhões sem saneamento básico.",
+      "stuck": "Possível gargalo: a escassez de água, agravada pelo calor e pelas perdas, limita saúde, agricultura e o futuro dos jovens.",
+      "nurture": "Antigas tradições de partilha da água, como aflaj e qanats, e populações jovens e conectadas com vontade de contribuir.",
+      "step": "Um bairro ou aldeia forma uma pequena roda da água: mapeia vazamentos e usos e testa uma prática de economia por 3 meses.",
+      "learn": "Comparar consumo, dias de abastecimento e custos antes e depois; partilhar o aprendizado com comunidades vizinhas.",
+      "strengths": [
+        "Antigos sistemas de partilha da água",
+        "Populações jovens",
+        "Fortes laços familiares e comunitários"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Water scarcity in the Middle East and North Africa",
+      "publisher": "UNICEF MENA",
+      "url": "https://www.unicef.org/mena/water-scarcity",
+      "published": null,
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Water, sanitation and hygiene – Iraq (regional context)",
+      "publisher": "UNICEF Iraq",
+      "url": "https://www.unicef.org/iraq/water-sanitation-and-hygiene",
+      "published": null,
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "pico-bonito-water-boards",
+    "harambee"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

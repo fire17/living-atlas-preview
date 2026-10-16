@@ -1,0 +1,69 @@
+{
+  "id": "nation/iq",
+  "scale": "nation",
+  "country": "Iraq",
+  "iso2": "IQ",
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "World Bank: water and electricity shortages slowed non-oil growth; people aged 15–29 are nearly 29% of the population.",
+      "stuck": "Possible bottleneck: scarcer, less reliable water strains farms and livelihoods while many young people seek work.",
+      "nurture": "A large, young population and long farming and marshland knowledge of living with the rivers.",
+      "step": "A farmers' group and local youth pilot shared irrigation scheduling and canal cleaning on one channel for a season.",
+      "learn": "Compare water reaching tail-end fields, yields and youth days worked before and after; the group decides what to keep.",
+      "strengths": [
+        "Young population",
+        "River and marshland knowledge",
+        "Farming traditions"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial: la falta de agua y electricidad frenó el crecimiento no petrolero; quienes tienen 15 a 29 años son casi el 29%.",
+      "stuck": "Posible cuello de botella: un agua más escasa e incierta presiona cultivos y sustento mientras mucha juventud busca empleo.",
+      "nurture": "Una población grande y joven, y un largo saber agrícola y de los humedales para convivir con los ríos.",
+      "step": "Un grupo de agricultores y jóvenes del lugar prueban por una temporada turnos de riego compartidos y limpieza de un canal.",
+      "learn": "Comparar el agua que llega al final del canal, cosechas y días de trabajo juvenil antes y después; el grupo decide qué mantener.",
+      "strengths": [
+        "Población joven",
+        "Saber de ríos y humedales",
+        "Tradición agrícola"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial: a falta de água e energia freou o crescimento fora do petróleo; pessoas de 15 a 29 anos são quase 29% da população.",
+      "stuck": "Possível gargalo: uma água mais escassa e incerta pressiona lavouras e sustento enquanto muitos jovens buscam trabalho.",
+      "nurture": "Uma população grande e jovem, e um longo saber agrícola e dos pântanos para conviver com os rios.",
+      "step": "Um grupo de agricultores e jovens locais testa por uma safra turnos de irrigação compartilhados e limpeza de um canal.",
+      "learn": "Comparar a água que chega ao fim do canal, colheitas e dias de trabalho dos jovens antes e depois; o grupo decide o que manter.",
+      "strengths": [
+        "População jovem",
+        "Saber dos rios e pântanos",
+        "Tradição agrícola"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Iraq Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/iraq/overview",
+      "published": "2025",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Water, sanitation and hygiene – Iraq",
+      "publisher": "UNICEF Iraq",
+      "url": "https://www.unicef.org/iraq/water-sanitation-and-hygiene",
+      "published": null,
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "pico-bonito-water-boards",
+    "harambee"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

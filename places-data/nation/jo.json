@@ -1,0 +1,68 @@
+{
+  "id": "nation/jo",
+  "scale": "nation",
+  "country": "Jordan",
+  "iso2": "JO",
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "UNICEF: about 61 m³ of renewable water per person a year, and close to half of drinking water is lost before reaching homes.",
+      "stuck": "Possible bottleneck: water lost in networks and storage, with once-a-week supply for about half of people, strains daily life.",
+      "nurture": "Community Water Committees and greywater reuse in 35 schools, already working with UNICEF and UN-Habitat.",
+      "step": "One neighbourhood committee and its school run a 3-month leak-and-tank check, sharing fixes and reporting network leaks.",
+      "learn": "Compare water bills, tank refills and reported leaks before and after; residents judge whether to continue.",
+      "strengths": [
+        "Community Water Committees",
+        "School greywater systems",
+        "Deep everyday water-saving know-how"
+      ]
+    },
+    "es": {
+      "context": "UNICEF: unos 61 m³ de agua renovable por persona al año, y cerca de la mitad del agua potable se pierde antes de llegar a los hogares.",
+      "stuck": "Posible cuello de botella: el agua perdida en redes y depósitos, con suministro semanal para la mitad de la gente, pesa sobre la vida diaria.",
+      "nurture": "Comités Comunitarios del Agua y reúso de aguas grises en 35 escuelas, ya en marcha con UNICEF y ONU-Hábitat.",
+      "step": "Un comité de barrio y su escuela hacen 3 meses de revisión de fugas y tanques, comparten arreglos y reportan fugas de la red.",
+      "learn": "Comparar facturas, recargas de tanque y fugas reportadas antes y después; los vecinos deciden si continuar.",
+      "strengths": [
+        "Comités Comunitarios del Agua",
+        "Aguas grises en escuelas",
+        "Saber cotidiano para ahorrar agua"
+      ]
+    },
+    "pt": {
+      "context": "UNICEF: cerca de 61 m³ de água renovável por pessoa ao ano, e quase metade da água potável se perde antes de chegar às casas.",
+      "stuck": "Possível gargalo: a água perdida em redes e caixas, com abastecimento semanal para metade das pessoas, pesa no dia a dia.",
+      "nurture": "Comitês Comunitários de Água e reúso de águas cinzas em 35 escolas, já em parceria com UNICEF e ONU-Habitat.",
+      "step": "Um comitê de bairro e sua escola fazem 3 meses de checagem de vazamentos e caixas, trocam consertos e reportam vazamentos da rede.",
+      "learn": "Comparar contas, recargas das caixas e vazamentos reportados antes e depois; os moradores decidem se continuam.",
+      "strengths": [
+        "Comitês Comunitários de Água",
+        "Águas cinzas nas escolas",
+        "Saber cotidiano de economia de água"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Water, sanitation and hygiene – Jordan",
+      "publisher": "UNICEF Jordan",
+      "url": "https://www.unicef.org/jordan/water-sanitation-and-hygiene",
+      "published": null,
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Jordan Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/jordan/overview",
+      "published": "2025",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "pico-bonito-water-boards"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

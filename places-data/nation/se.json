@@ -1,0 +1,68 @@
+{
+  "id": "nation/se",
+  "scale": "nation",
+  "country": "Sweden",
+  "iso2": "SE",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): young people in Sweden leave home at 23.1 (EU 26.3), yet 10.8% of people spend over 40% of income on housing (EU 7.7%).",
+      "stuck": "Possible bottleneck: young people move out early but often into costly or short-term housing, which can bring stress and isolation.",
+      "nurture": "A strong tradition of study circles and popular education (folkbildning) that brings people together locally.",
+      "step": "A study association runs a 6-week circle for young renters on budgets, rights, shared living and meeting neighbours; participants set topics.",
+      "learn": "At the end and at 6 months: participants' housing stress, new local contacts, and whether they want to host the next circle.",
+      "strengths": [
+        "Study circles and folkbildning",
+        "Early independence of young people",
+        "Civic associations"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): los jóvenes en Suecia se emancipan a los 23,1 (UE 26,3), pero el 10,8% gasta más del 40% de su renta en vivienda (UE 7,7%).",
+      "stuck": "Posible cuello de botella: los jóvenes se van pronto de casa, pero a menudo a viviendas caras o temporales, con estrés y aislamiento.",
+      "nurture": "Una fuerte tradición de círculos de estudio y educación popular (folkbildning) que reúne a la gente en lo local.",
+      "step": "Una asociación de estudio organiza un círculo de 6 semanas para jóvenes inquilinos: presupuesto, derechos, convivencia y vecinos; ellos eligen temas.",
+      "learn": "Al final y a los 6 meses: estrés por vivienda, nuevos contactos locales y si quieren acoger el siguiente círculo.",
+      "strengths": [
+        "Círculos de estudio y folkbildning",
+        "Emancipación temprana",
+        "Asociaciones cívicas"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): os jovens na Suécia saem de casa aos 23,1 (UE 26,3), mas 10,8% gastam mais de 40% da renda com moradia (UE 7,7%).",
+      "stuck": "Possível gargalo: os jovens saem cedo de casa, mas muitas vezes para moradias caras ou temporárias, com estresse e isolamento.",
+      "nurture": "Uma forte tradição de círculos de estudo e educação popular (folkbildning) que reúne as pessoas no local.",
+      "step": "Uma associação de estudo faz um círculo de 6 semanas para jovens inquilinos: orçamento, direitos, convivência e vizinhos; eles escolhem os temas.",
+      "learn": "No fim e aos 6 meses: estresse com moradia, novos contatos locais e se querem receber o próximo círculo.",
+      "strengths": [
+        "Círculos de estudo e folkbildning",
+        "Independência cedo",
+        "Associações cívicas"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Estimated average age of young persons leaving the parental household, Sweden and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/yth_demo_030?sex=T&geo=SE&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-04",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Housing cost overburden rate, Sweden and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07a?rskpovth=TOTAL&age=TOTAL&sex=T&unit=PC&geo=SE&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "mens-sheds"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

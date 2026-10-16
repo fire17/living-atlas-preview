@@ -1,0 +1,69 @@
+{
+  "id": "nation/eg",
+  "scale": "nation",
+  "country": "Egypt",
+  "iso2": "EG",
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "UNICEF: 8.4 million people lack improved sanitation, mostly in rural areas; World Bank puts national poverty at 33.5% (2021/22).",
+      "stuck": "Possible bottleneck: gaps in rural sanitation may keep harming health and local water quality in villages.",
+      "nurture": "Local water and sanitation companies improving service, per the World Bank, and active village community associations.",
+      "step": "One village, its community development association and the water company map unconnected homes and agree a first fix.",
+      "learn": "Track new connections, clinic visits for child diarrhoea and canal cleanliness over a season; villagers decide next steps.",
+      "strengths": [
+        "Improving local water companies",
+        "Village community associations",
+        "Near-universal urban water access"
+      ]
+    },
+    "es": {
+      "context": "UNICEF: 8,4 millones carecen de saneamiento mejorado, sobre todo en zonas rurales; Banco Mundial: pobreza nacional 33,5% (2021/22).",
+      "stuck": "Posible cuello de botella: las brechas de saneamiento rural pueden seguir dañando la salud y la calidad del agua en las aldeas.",
+      "nurture": "Empresas locales de agua y saneamiento que mejoran su servicio, según el Banco Mundial, y asociaciones comunitarias activas en las aldeas.",
+      "step": "Una aldea, su asociación de desarrollo comunitario y la empresa de agua mapean casas sin conexión y acuerdan un primer arreglo.",
+      "learn": "Seguir nuevas conexiones, consultas por diarrea infantil y limpieza de canales en una temporada; la aldea decide los pasos.",
+      "strengths": [
+        "Empresas locales de agua que mejoran",
+        "Asociaciones comunitarias de aldea",
+        "Agua urbana casi universal"
+      ]
+    },
+    "pt": {
+      "context": "UNICEF: 8,4 milhões de pessoas não têm saneamento adequado, sobretudo no campo; o Banco Mundial estima a pobreza em 33,5% (2021/22).",
+      "stuck": "Possível gargalo: lacunas de saneamento rural podem seguir prejudicando a saúde e a qualidade da água nas aldeias.",
+      "nurture": "Empresas locais de água e saneamento melhorando o serviço, segundo o Banco Mundial, e associações comunitárias ativas nas aldeias.",
+      "step": "Uma aldeia, sua associação de desenvolvimento comunitário e a empresa de água mapeiam casas sem ligação e combinam um primeiro conserto.",
+      "learn": "Acompanhar novas ligações, consultas por diarreia infantil e limpeza dos canais numa safra; a aldeia decide os próximos passos.",
+      "strengths": [
+        "Empresas locais de água melhorando",
+        "Associações comunitárias de aldeia",
+        "Água urbana quase universal"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Water, sanitation and hygiene – Egypt",
+      "publisher": "UNICEF Egypt",
+      "url": "https://www.unicef.org/egypt/water-sanitation-and-hygiene",
+      "published": null,
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Egypt Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/egypt/overview",
+      "published": "2025",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "pico-bonito-water-boards",
+    "villa-el-salvador"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

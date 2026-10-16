@@ -1,0 +1,198 @@
+{
+  "nation/ae": {
+    "path": "nation/ae.json",
+    "scale": "nation",
+    "iso2": "AE",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/bz": {
+    "path": "nation/bz.json",
+    "scale": "nation",
+    "iso2": "BZ",
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "nation/cr": {
+    "path": "nation/cr.json",
+    "scale": "nation",
+    "iso2": "CR",
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "nation/de": {
+    "path": "nation/de.json",
+    "scale": "nation",
+    "iso2": "DE",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/eg": {
+    "path": "nation/eg.json",
+    "scale": "nation",
+    "iso2": "EG",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/es": {
+    "path": "nation/es.json",
+    "scale": "nation",
+    "iso2": "ES",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/fr": {
+    "path": "nation/fr.json",
+    "scale": "nation",
+    "iso2": "FR",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/gb": {
+    "path": "nation/gb.json",
+    "scale": "nation",
+    "iso2": "GB",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/gr": {
+    "path": "nation/gr.json",
+    "scale": "nation",
+    "iso2": "GR",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/gt": {
+    "path": "nation/gt.json",
+    "scale": "nation",
+    "iso2": "GT",
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "nation/hn": {
+    "path": "nation/hn.json",
+    "scale": "nation",
+    "iso2": "HN",
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "nation/il": {
+    "path": "nation/il.json",
+    "scale": "nation",
+    "iso2": "IL",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/iq": {
+    "path": "nation/iq.json",
+    "scale": "nation",
+    "iso2": "IQ",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/it": {
+    "path": "nation/it.json",
+    "scale": "nation",
+    "iso2": "IT",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/jo": {
+    "path": "nation/jo.json",
+    "scale": "nation",
+    "iso2": "JO",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/lb": {
+    "path": "nation/lb.json",
+    "scale": "nation",
+    "iso2": "LB",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/ni": {
+    "path": "nation/ni.json",
+    "scale": "nation",
+    "iso2": "NI",
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "nation/nl": {
+    "path": "nation/nl.json",
+    "scale": "nation",
+    "iso2": "NL",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/pa": {
+    "path": "nation/pa.json",
+    "scale": "nation",
+    "iso2": "PA",
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "nation/pl": {
+    "path": "nation/pl.json",
+    "scale": "nation",
+    "iso2": "PL",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/ps": {
+    "path": "nation/ps.json",
+    "scale": "nation",
+    "iso2": "PS",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/pt": {
+    "path": "nation/pt.json",
+    "scale": "nation",
+    "iso2": "PT",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/sa": {
+    "path": "nation/sa.json",
+    "scale": "nation",
+    "iso2": "SA",
+    "region": "Middle East",
+    "status": "draft-research"
+  },
+  "nation/se": {
+    "path": "nation/se.json",
+    "scale": "nation",
+    "iso2": "SE",
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "nation/sv": {
+    "path": "nation/sv.json",
+    "scale": "nation",
+    "iso2": "SV",
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "region/central-america": {
+    "path": "region/central-america.json",
+    "scale": "region",
+    "iso2": null,
+    "region": "Central America",
+    "status": "draft-research"
+  },
+  "region/europe": {
+    "path": "region/europe.json",
+    "scale": "region",
+    "iso2": null,
+    "region": "Europe",
+    "status": "draft-research"
+  },
+  "region/middle-east": {
+    "path": "region/middle-east.json",
+    "scale": "region",
+    "iso2": null,
+    "region": "Middle East",
+    "status": "draft-research"
+  }
+}

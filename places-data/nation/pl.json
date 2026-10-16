@@ -1,0 +1,68 @@
+{
+  "id": "nation/pl",
+  "scale": "nation",
+  "country": "Poland",
+  "iso2": "PL",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): 30.9% of people in Poland live in overcrowded homes (EU 16.8%), while only 4.1% are overburdened by housing costs (EU 7.7%).",
+      "stuck": "Possible bottleneck: too little living space, so families and young adults share cramped homes for longer.",
+      "nurture": "Low housing cost burden and a long tradition of housing cooperatives (spółdzielnie mieszkaniowe).",
+      "step": "In one town, a housing co-op's members vote to convert 2 unused common rooms into starter studios for young residents, for 12 months.",
+      "learn": "Track occupancy, tenant feedback, costs and neighbours' views; co-op members vote on whether to convert more spaces.",
+      "strengths": [
+        "Low housing cost burden",
+        "Housing cooperatives",
+        "Strong family support"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): el 30,9% de las personas en Polonia vive en hacinamiento (UE 16,8%), y solo el 4,1% está sobrecargado por el coste de vivienda.",
+      "stuck": "Posible cuello de botella: falta espacio habitable, y familias y jóvenes comparten viviendas estrechas durante más tiempo.",
+      "nurture": "Bajo peso del coste de vivienda y una larga tradición de cooperativas de vivienda (spółdzielnie mieszkaniowe).",
+      "step": "En un municipio, los socios de una cooperativa votan convertir 2 salas comunes sin uso en estudios para jóvenes, durante 12 meses.",
+      "learn": "Medir ocupación, opinión de inquilinos, costes y vecinos; los socios votan si convierten más espacios.",
+      "strengths": [
+        "Bajo peso del coste de vivienda",
+        "Cooperativas de vivienda",
+        "Fuerte apoyo familiar"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): 30,9% das pessoas na Polônia vivem em superlotação (UE 16,8%), e só 4,1% estão sobrecarregadas pelo custo da moradia.",
+      "stuck": "Possível gargalo: falta espaço para morar, e famílias e jovens dividem casas apertadas por mais tempo.",
+      "nurture": "Baixo peso do custo da moradia e uma longa tradição de cooperativas habitacionais (spółdzielnie mieszkaniowe).",
+      "step": "Numa cidade, os sócios de uma cooperativa votam converter 2 salas comuns sem uso em quitinetes para jovens, por 12 meses.",
+      "learn": "Medir ocupação, opinião dos inquilinos, custos e vizinhos; os sócios votam se convertem mais espaços.",
+      "strengths": [
+        "Baixo peso do custo da moradia",
+        "Cooperativas habitacionais",
+        "Forte apoio familiar"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Overcrowding rate, Poland and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho05a?rskpovth=TOTAL&age=TOTAL&sex=T&unit=PC&geo=PL&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Housing cost overburden rate, Poland and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07a?rskpovth=TOTAL&age=TOTAL&sex=T&unit=PC&geo=PL&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "porto-alegre"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

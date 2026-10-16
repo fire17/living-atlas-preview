@@ -1,0 +1,69 @@
+{
+  "id": "nation/it",
+  "scale": "nation",
+  "country": "Italy",
+  "iso2": "IT",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): Italy's old-age dependency ratio is 39.0% (EU 34.5%); young people leave the parental home at 30.2 on average (EU 26.3).",
+      "stuck": "Possible bottleneck: as towns age, old and young have few shared spaces, so care and isolation fall on families alone.",
+      "nurture": "Strong family ties, piazza life, and a large third sector of volunteers and social cooperatives, a model Italy pioneered.",
+      "step": "In one comune, a social co-op and a school run a weekly 3-month swap: students help elders with phones; elders teach a craft or recipe.",
+      "learn": "After 3 months: attendance, what elders and students say about loneliness and skills, and whether the comune council wants to keep it.",
+      "strengths": [
+        "Social cooperatives",
+        "Piazza and neighbourhood life",
+        "Strong family solidarity"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): la tasa de dependencia de mayores en Italia es 39,0% (UE 34,5%); los jóvenes dejan el hogar familiar a los 30,2 años (UE 26,3).",
+      "stuck": "Posible cuello de botella: al envejecer los pueblos, mayores y jóvenes comparten pocos espacios, y el cuidado y la soledad recaen solo en las familias.",
+      "nurture": "Fuertes lazos familiares, vida de plaza y un gran tercer sector de voluntariado y cooperativas sociales, modelo que Italia impulsó.",
+      "step": "En un comune, una cooperativa social y una escuela hacen un intercambio semanal por 3 meses: alumnos ayudan con móviles; mayores enseñan un oficio.",
+      "learn": "A los 3 meses: asistencia, qué dicen mayores y alumnos sobre soledad y aprendizajes, y si el consejo municipal quiere seguir.",
+      "strengths": [
+        "Cooperativas sociales",
+        "Vida de plaza y de barrio",
+        "Fuerte solidaridad familiar"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): a razão de dependência de idosos na Itália é 39,0% (UE 34,5%); os jovens saem da casa dos pais aos 30,2 anos em média (UE 26,3).",
+      "stuck": "Possível gargalo: com cidades envelhecendo, idosos e jovens dividem poucos espaços, e o cuidado e a solidão ficam só com as famílias.",
+      "nurture": "Fortes laços familiares, vida de praça e um grande terceiro setor de voluntários e cooperativas sociais, modelo pioneiro na Itália.",
+      "step": "Num comune, uma cooperativa social e uma escola fazem uma troca semanal por 3 meses: alunos ajudam com celulares; idosos ensinam um ofício.",
+      "learn": "Após 3 meses: frequência, o que idosos e alunos dizem sobre solidão e aprendizados, e se a câmara municipal quer continuar.",
+      "strengths": [
+        "Cooperativas sociais",
+        "Vida de praça e de bairro",
+        "Forte solidariedade familiar"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Population structure indicators: old-age dependency ratio, Italy and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjanind?indic_de=OLDDEP1&geo=IT&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Estimated average age of young persons leaving the parental household, Italy and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/yth_demo_030?sex=T&geo=IT&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-04",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "fureai-kippu",
+    "mens-sheds"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

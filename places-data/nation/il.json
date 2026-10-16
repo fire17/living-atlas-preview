@@ -1,0 +1,70 @@
+{
+  "id": "nation/il",
+  "scale": "nation",
+  "country": "Israel",
+  "iso2": "IL",
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "CBS Israel in Figures 2024: 20.4% said they felt lonely frequently or occasionally; people 65+ are 12.7% of residents (WB, 2025).",
+      "stuck": "Possible bottleneck: everyday social connection, especially for older people, may not keep pace with a busy, ageing society.",
+      "nurture": "Neighbourhood community centres and long-standing volunteer and mutual-aid groups in many communities.",
+      "step": "One community centre and residents pilot a weekly mixed-age shed or tea circle for 3 months; participants set the agenda.",
+      "learn": "Track attendance and ask one simple loneliness question at start and after 3 months; keep only what people say helps.",
+      "strengths": [
+        "Neighbourhood community centres",
+        "Volunteer and mutual-aid traditions",
+        "Strong public data on wellbeing"
+      ]
+    },
+    "es": {
+      "context": "CBS, Israel en cifras 2024: el 20,4% dijo sentirse solo con frecuencia u ocasionalmente; los mayores de 65 son el 12,7% (BM, 2025).",
+      "stuck": "Posible cuello de botella: la conexión social cotidiana, sobre todo de las personas mayores, no sigue el ritmo de una sociedad que envejece.",
+      "nurture": "Centros comunitarios de barrio y grupos de voluntariado y ayuda mutua con larga trayectoria en muchas comunidades.",
+      "step": "Un centro comunitario y sus vecinos prueban 3 meses un círculo semanal intergeneracional de taller o té; quienes participan fijan la agenda.",
+      "learn": "Contar la asistencia y hacer una pregunta simple sobre soledad al inicio y a los 3 meses; conservar solo lo que la gente dice que ayuda.",
+      "strengths": [
+        "Centros comunitarios de barrio",
+        "Tradición de voluntariado y ayuda mutua",
+        "Buenos datos públicos sobre bienestar"
+      ]
+    },
+    "pt": {
+      "context": "CBS, Israel em números 2024: 20,4% disseram se sentir sós com frequência ou às vezes; pessoas com 65+ são 12,7% (Banco Mundial, 2025).",
+      "stuck": "Possível gargalo: a conexão social do dia a dia, sobretudo dos idosos, pode não acompanhar uma sociedade corrida e que envelhece.",
+      "nurture": "Centros comunitários de bairro e grupos antigos de voluntariado e ajuda mútua em muitas comunidades.",
+      "step": "Um centro comunitário e moradores testam por 3 meses uma roda semanal intergeracional de oficina ou chá; quem participa define a pauta.",
+      "learn": "Contar a presença e fazer uma pergunta simples sobre solidão no início e após 3 meses; manter só o que as pessoas dizem que ajuda.",
+      "strengths": [
+        "Centros comunitários de bairro",
+        "Tradição de voluntariado e ajuda mútua",
+        "Bons dados públicos sobre bem-estar"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Israel in Figures: Selected Data from the Statistical Abstract of Israel 2024",
+      "publisher": "Central Bureau of Statistics (Israel)",
+      "url": "https://www.cbs.gov.il/he/publications/DocLib/isr_in_n/isr_in_n24e.pdf",
+      "published": "2024",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Population ages 65 and above (% of total population) – Israel",
+      "publisher": "World Bank",
+      "url": "https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS?locations=IL",
+      "published": "2025",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "mens-sheds",
+    "fureai-kippu",
+    "friendship-bench"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "nation/gt",
+  "scale": "nation",
+  "country": "Guatemala",
+  "iso2": "GT",
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "World Bank (2026): chronic malnutrition affects 46% of children under five; poverty is estimated at 45.4% in 2026, with El Niño risks to food security.",
+      "stuck": "Possible bottleneck: many young children may not get enough varied food and care in their first 1,000 days, limiting growth before school begins.",
+      "nurture": "Strong community institutions: Indigenous authorities, community forest concessions in Petén, and local midwives who know families well.",
+      "step": "In one municipality, a mothers' group with local midwives runs a monthly circle to weigh children and share local recipes; the group decides the format.",
+      "learn": "Every 3 months: share of children in the circle growing on track, attendance, and what mothers say helped or did not.",
+      "strengths": [
+        "Indigenous community authorities",
+        "Maya milpa and food knowledge",
+        "Community forest concessions"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial (2026): la desnutrición crónica afecta al 46% de menores de cinco años; la pobreza se estima en 45,4% en 2026, con riesgos por El Niño.",
+      "stuck": "Posible cuello de botella: muchos niños pequeños quizá no reciben alimentación variada y cuidados suficientes en sus primeros 1.000 días.",
+      "nurture": "Instituciones comunitarias fuertes: autoridades indígenas, concesiones forestales comunitarias en Petén y comadronas que conocen a las familias.",
+      "step": "En un municipio, un grupo de madres con comadronas organiza un círculo mensual para pesar a los niños y compartir recetas locales; el grupo decide cómo.",
+      "learn": "Cada 3 meses: proporción de niños del círculo que crecen bien, asistencia y lo que las madres dicen que ayudó o no.",
+      "strengths": [
+        "Autoridades comunitarias indígenas",
+        "Milpa y saberes alimentarios mayas",
+        "Concesiones forestales comunitarias"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial (2026): a desnutrição crônica atinge 46% das crianças menores de cinco anos; a pobreza é estimada em 45,4% em 2026, com riscos do El Niño.",
+      "stuck": "Possível gargalo: muitas crianças pequenas talvez não recebam alimentação variada e cuidados suficientes nos primeiros 1.000 dias de vida.",
+      "nurture": "Instituições comunitárias fortes: autoridades indígenas, concessões florestais comunitárias em Petén e parteiras que conhecem as famílias.",
+      "step": "Num município, um grupo de mães com parteiras locais faz uma roda mensal para pesar as crianças e trocar receitas locais; o grupo decide o formato.",
+      "learn": "A cada 3 meses: parcela das crianças da roda crescendo bem, participação e o que as mães dizem que ajudou ou não.",
+      "strengths": [
+        "Autoridades comunitárias indígenas",
+        "Milpa e saberes alimentares maias",
+        "Concessões florestais comunitárias"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Guatemala Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/guatemala/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Prevalence of stunting, children under 5, Guatemala",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/GT/indicator/SH.STA.STNT.ZS?format=json&mrnev=1",
+      "published": "2021",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "belo-horizonte-food-security",
+    "maya-biosphere-community-concessions"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

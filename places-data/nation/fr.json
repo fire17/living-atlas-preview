@@ -1,0 +1,68 @@
+{
+  "id": "nation/fr",
+  "scale": "nation",
+  "country": "France",
+  "iso2": "FR",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): 12.9% of people aged 15-29 in France were not in employment, education or training (EU 11.0%); youth leave home at 23.8.",
+      "stuck": "Possible bottleneck: some young people lose contact with school and work, with few trusted adults nearby to help them re-enter.",
+      "nurture": "A dense web of local associations and sports clubs, and young people who leave home and live independently early.",
+      "step": "A local association and 3 small employers offer 8 young people paid weekly mentoring and short placements for 3 months; youth choose the trade.",
+      "learn": "At 3 and 6 months: how many are in training or work, what youth and mentors say, and whether the group wants another cohort.",
+      "strengths": [
+        "Dense network of associations",
+        "Early independence of young people",
+        "Public youth and training services"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): el 12,9% de las personas de 15-29 años en Francia no estudiaba, ni trabajaba, ni se formaba (UE 11,0%); se emancipan a los 23,8.",
+      "stuck": "Posible cuello de botella: algunos jóvenes pierden el contacto con estudios y trabajo, con pocos adultos de confianza que les ayuden a volver.",
+      "nurture": "Un tejido denso de asociaciones y clubes deportivos locales, y jóvenes que se emancipan pronto y viven por su cuenta.",
+      "step": "Una asociación local y 3 pequeñas empresas ofrecen a 8 jóvenes mentoría semanal pagada y prácticas cortas por 3 meses; ellos eligen el oficio.",
+      "learn": "A los 3 y 6 meses: cuántos estudian o trabajan, qué dicen jóvenes y mentores, y si el grupo quiere otra tanda.",
+      "strengths": [
+        "Tejido denso de asociaciones",
+        "Emancipación temprana de los jóvenes",
+        "Servicios públicos de juventud y formación"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): 12,9% das pessoas de 15-29 anos na França não trabalhavam, não estudavam nem faziam formação (UE 11,0%); saem de casa aos 23,8.",
+      "stuck": "Possível gargalo: alguns jovens perdem o vínculo com estudo e trabalho, com poucos adultos de confiança por perto para ajudar na volta.",
+      "nurture": "Uma rede densa de associações e clubes esportivos locais, e jovens que saem de casa cedo e vivem de forma independente.",
+      "step": "Uma associação local e 3 pequenas empresas oferecem a 8 jovens mentoria semanal paga e estágios curtos por 3 meses; eles escolhem o ofício.",
+      "learn": "Aos 3 e 6 meses: quantos estão estudando ou trabalhando, o que dizem jovens e mentores, e se o grupo quer uma nova turma.",
+      "strengths": [
+        "Rede densa de associações",
+        "Independência cedo dos jovens",
+        "Serviços públicos de juventude e formação"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Young persons neither in employment nor in education and training (NEET rates), France and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_neet_a?age=Y15-29&sex=T&unit=PC_POP&geo=FR&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Estimated average age of young persons leaving the parental household, France and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/yth_demo_030?sex=T&geo=FR&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-04",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "escuela-taller-bogota"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

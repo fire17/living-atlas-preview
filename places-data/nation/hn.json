@@ -1,0 +1,70 @@
+{
+  "id": "nation/hn",
+  "scale": "nation",
+  "country": "Honduras",
+  "iso2": "HN",
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "World Bank (2026): poverty at US$8.30/day fell to an est. 43.1% in 2025; remittances are about 30% of GDP; 36.6% complete lower secondary (2024).",
+      "stuck": "Possible bottleneck: many adolescents leave school after primary, narrowing their paths to skilled local work and toward staying near family.",
+      "nurture": "Community water boards (juntas de agua) that villages already run themselves, showing deep habits of local self-organisation.",
+      "step": "In one village, the water board and parents' committee invite out-of-school teens to a weekly trade-and-study club; teens and families shape it.",
+      "learn": "Each term: how many teens join, stay or return to school, and what they and their families say about the club.",
+      "strengths": [
+        "Community water boards",
+        "Coffee and farming know-how",
+        "Strong family networks"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial (2026): la pobreza (US$8,30/día) bajó a un 43,1% est. en 2025; las remesas son ~30% del PIB; 36,6% termina la secundaria baja (2024).",
+      "stuck": "Posible cuello de botella: muchos adolescentes dejan la escuela tras la primaria, lo que estrecha sus caminos hacia un trabajo calificado cerca de su familia.",
+      "nurture": "Juntas de agua que las comunidades ya gestionan por sí mismas, muestra de hábitos profundos de autoorganización local.",
+      "step": "En una aldea, la junta de agua y el comité de padres invitan a adolescentes fuera de la escuela a un club semanal de oficios y estudio; ellos lo diseñan.",
+      "learn": "Cada período: cuántos adolescentes se suman, permanecen o vuelven a la escuela, y qué dicen ellos y sus familias del club.",
+      "strengths": [
+        "Juntas de agua comunitarias",
+        "Saberes del café y del campo",
+        "Redes familiares fuertes"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial (2026): a pobreza (US$8,30/dia) caiu para 43,1% est. em 2025; remessas são ~30% do PIB; 36,6% concluem o fundamental II (2024).",
+      "stuck": "Possível gargalo: muitos adolescentes deixam a escola após o primário, o que estreita seus caminhos para um trabalho qualificado perto da família.",
+      "nurture": "Juntas de água que as comunidades já administram sozinhas, sinal de hábitos profundos de auto-organização local.",
+      "step": "Numa aldeia, a junta de água e o comitê de pais convidam adolescentes fora da escola para um clube semanal de ofícios e estudo; eles moldam o clube.",
+      "learn": "A cada período: quantos adolescentes entram, ficam ou voltam à escola, e o que eles e suas famílias dizem do clube.",
+      "strengths": [
+        "Juntas de água comunitárias",
+        "Saberes do café e da roça",
+        "Redes familiares fortes"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Honduras Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/honduras/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Lower secondary completion rate, Honduras",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/HN/indicator/SE.SEC.CMPT.LO.ZS?format=json&mrnev=1",
+      "published": "2024",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "pico-bonito-water-boards",
+    "escuela-taller-bogota",
+    "el-sistema"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

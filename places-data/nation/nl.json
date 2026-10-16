@@ -1,0 +1,69 @@
+{
+  "id": "nation/nl",
+  "scale": "nation",
+  "country": "Netherlands",
+  "iso2": "NL",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "CBS (2026): about 42% of people aged 75+ live alone with no long-term partner; CBS survey (2019): 9% of people 15+ often felt lonely.",
+      "stuck": "Possible bottleneck: more people live alone at both ends of life, and some lack easy, everyday ways to meet neighbours.",
+      "nurture": "High levels of volunteering and a dense network of neighbourhood centres and associations.",
+      "step": "In one neighbourhood, residents and a community centre host a weekly shared meal for 3 months, co-run by younger and older neighbours.",
+      "learn": "Count regulars, ask a short loneliness question before and after, and let residents decide whether to continue.",
+      "strengths": [
+        "High volunteering",
+        "Neighbourhood centres",
+        "Walkable, cyclable streets"
+      ]
+    },
+    "es": {
+      "context": "CBS (2026): cerca del 42% de las personas de 75+ vive sola y sin pareja estable; encuesta CBS (2019): el 9% de mayores de 15 se sentía solo a menudo.",
+      "stuck": "Posible cuello de botella: más gente vive sola al principio y al final de la vida, y a algunos les faltan formas cotidianas de conocer vecinos.",
+      "nurture": "Altos niveles de voluntariado y una red densa de centros vecinales y asociaciones.",
+      "step": "En un barrio, vecinos y un centro comunitario organizan una comida compartida semanal durante 3 meses, llevada por jóvenes y mayores.",
+      "learn": "Contar asistentes habituales, hacer una pregunta breve sobre soledad antes y después, y que los vecinos decidan si sigue.",
+      "strengths": [
+        "Alto voluntariado",
+        "Centros vecinales",
+        "Calles caminables y ciclables"
+      ]
+    },
+    "pt": {
+      "context": "CBS (2026): cerca de 42% das pessoas com 75+ moram sozinhas e sem parceiro fixo; pesquisa CBS (2019): 9% dos maiores de 15 se sentiam sós com frequência.",
+      "stuck": "Possível gargalo: mais gente mora sozinha no início e no fim da vida, e alguns não têm jeitos cotidianos de conhecer os vizinhos.",
+      "nurture": "Altos níveis de voluntariado e uma rede densa de centros de bairro e associações.",
+      "step": "Num bairro, moradores e um centro comunitário fazem uma refeição compartilhada semanal por 3 meses, tocada por jovens e idosos.",
+      "learn": "Contar os frequentadores, fazer uma pergunta curta sobre solidão antes e depois, e deixar os moradores decidirem se continua.",
+      "strengths": [
+        "Alto voluntariado",
+        "Centros de bairro",
+        "Ruas caminháveis e cicláveis"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Ever more people are single or live alone",
+      "publisher": "CBS Statistics Netherlands",
+      "url": "https://www.cbs.nl/en-gb/news/2026/34/ever-more-people-are-single-or-live-alone",
+      "published": "2026-08",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Nearly 1 in 10 Dutch people frequently lonely in 2019",
+      "publisher": "CBS Statistics Netherlands",
+      "url": "https://www.cbs.nl/en-gb/news/2020/13/nearly-1-in-10-dutch-people-frequently-lonely-in-2019",
+      "published": "2020-03",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "kodomo-shokudo",
+    "mens-sheds"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

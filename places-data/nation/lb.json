@@ -1,0 +1,69 @@
+{
+  "id": "nation/lb",
+  "scale": "nation",
+  "country": "Lebanon",
+  "iso2": "LB",
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "UNICEF: since the 2019 crisis, water systems often cannot run pumps; many households rely on costly private water trucking.",
+      "stuck": "Possible bottleneck: unreliable power keeps water pumps idle, so safe water depends on what each household can pay.",
+      "nurture": "Fast-growing solar know-how; UNICEF reports 14 solarized water stations serving over 400,000 users.",
+      "step": "A municipality, the water establishment and residents map one area's pumps and power gaps, then trial shared solar upkeep.",
+      "learn": "Track supply hours, trucking costs per household and pump downtime monthly; share results at a neighbourhood meeting.",
+      "strengths": [
+        "Solar skills and uptake",
+        "Dynamic private sector",
+        "Strong local and diaspora networks"
+      ]
+    },
+    "es": {
+      "context": "UNICEF: desde la crisis de 2019, los sistemas de agua a menudo no pueden operar bombas; muchas familias pagan caro por camiones cisterna.",
+      "stuck": "Posible cuello de botella: la electricidad poco fiable deja las bombas paradas, y el agua segura depende de lo que cada hogar pueda pagar.",
+      "nurture": "Saber solar en rápido crecimiento; UNICEF reporta 14 estaciones de agua solarizadas para más de 400.000 usuarios.",
+      "step": "Un municipio, la empresa de agua y vecinos mapean bombas y faltas de energía en una zona, y prueban un mantenimiento solar compartido.",
+      "learn": "Seguir cada mes horas de suministro, gasto en cisternas por hogar y bombas paradas; compartirlo en una reunión vecinal.",
+      "strengths": [
+        "Habilidades y uso de energía solar",
+        "Sector privado dinámico",
+        "Redes locales y de la diáspora"
+      ]
+    },
+    "pt": {
+      "context": "UNICEF: desde a crise de 2019, os sistemas de água muitas vezes não conseguem operar bombas; muitas famílias pagam caro por caminhão-pipa.",
+      "stuck": "Possível gargalo: a energia instável deixa as bombas paradas, e a água segura depende do que cada casa pode pagar.",
+      "nurture": "Saber solar em rápido crescimento; o UNICEF relata 14 estações de água solarizadas para mais de 400 mil usuários.",
+      "step": "Município, empresa de água e moradores mapeiam bombas e falhas de energia numa área e testam uma manutenção solar compartilhada.",
+      "learn": "Acompanhar por mês horas de abastecimento, gasto com caminhão-pipa e bombas paradas; mostrar numa reunião do bairro.",
+      "strengths": [
+        "Habilidade e uso de energia solar",
+        "Setor privado dinâmico",
+        "Redes locais e da diáspora"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Water, sanitation and hygiene (WASH) – Lebanon",
+      "publisher": "UNICEF Lebanon",
+      "url": "https://www.unicef.org/lebanon/water-sanitation-and-hygiene-wash",
+      "published": null,
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Lebanon Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/lebanon/overview",
+      "published": "2025",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "restart-project",
+    "pico-bonito-water-boards"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

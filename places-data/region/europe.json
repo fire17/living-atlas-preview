@@ -1,0 +1,69 @@
+{
+  "id": "region/europe",
+  "scale": "region",
+  "country": null,
+  "iso2": null,
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): 8.8% of people in the EU cannot keep their home adequately warm, and 7.7% spend over 40% of disposable income on housing.",
+      "stuck": "Possible bottleneck: home costs, rent and energy, strain many households and fall hardest on the young, the old and those on low incomes.",
+      "nurture": "A growing movement of citizen energy communities and long traditions of housing cooperatives in many countries.",
+      "step": "In one town, a residents' group visits a nearby energy community, then holds a public meeting to decide whether to start a small pilot.",
+      "learn": "After 6 months: was a decision made, who took part (age, income, tenure), and what members expect to save.",
+      "strengths": [
+        "Energy cooperatives",
+        "Housing cooperatives",
+        "Cross-border learning networks"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): el 8,8% de las personas en la UE no puede mantener su vivienda a temperatura adecuada y el 7,7% gasta más del 40% de su renta en ella.",
+      "stuck": "Posible cuello de botella: el coste de la vivienda, alquiler y energía, aprieta a muchos hogares y golpea más a jóvenes, mayores y rentas bajas.",
+      "nurture": "Un movimiento creciente de comunidades energéticas ciudadanas y largas tradiciones de cooperativas de vivienda en muchos países.",
+      "step": "En un municipio, un grupo vecinal visita una comunidad energética cercana y luego convoca una asamblea para decidir si empezar un piloto pequeño.",
+      "learn": "A los 6 meses: si se decidió algo, quién participó (edad, renta, régimen de tenencia) y cuánto esperan ahorrar.",
+      "strengths": [
+        "Cooperativas energéticas",
+        "Cooperativas de vivienda",
+        "Redes de aprendizaje entre países"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): 8,8% das pessoas na UE não conseguem manter a casa adequadamente aquecida e 7,7% gastam mais de 40% da renda com moradia.",
+      "stuck": "Possível gargalo: o custo de morar, aluguel e energia, aperta muitas famílias e pesa mais sobre jovens, idosos e quem tem renda baixa.",
+      "nurture": "Um movimento crescente de comunidades de energia cidadãs e longas tradições de cooperativas habitacionais em muitos países.",
+      "step": "Numa cidade, um grupo de moradores visita uma comunidade de energia próxima e depois faz uma assembleia para decidir se começa um piloto pequeno.",
+      "learn": "Após 6 meses: se houve decisão, quem participou (idade, renda, tipo de moradia) e quanto esperam economizar.",
+      "strengths": [
+        "Cooperativas de energia",
+        "Cooperativas habitacionais",
+        "Redes de aprendizado entre países"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Inability to keep home adequately warm, EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes01?hhcomp=TOTAL&rskpovth=TOTAL&unit=PC&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Housing cost overburden rate, EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07a?rskpovth=TOTAL&age=TOTAL&sex=T&unit=PC&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "restart-project",
+    "incredible-edible-todmorden"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

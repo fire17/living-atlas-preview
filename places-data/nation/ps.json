@@ -1,0 +1,69 @@
+{
+  "id": "nation/ps",
+  "scale": "nation",
+  "country": "State of Palestine (West Bank and Gaza)",
+  "iso2": "PS",
+  "city": null,
+  "region": "Middle East",
+  "text": {
+    "en": {
+      "context": "World Bank: end-2022 unemployment was 13.1% in the West Bank and 45.3% in Gaza; youth 36.1%. It also funds emergency food and water.",
+      "stuck": "Possible bottleneck: young people's skills and energy find few safe, steady paths into livelihoods and contribution.",
+      "nurture": "A high value placed on education and strong family and community solidarity under hard conditions.",
+      "step": "Where safe, a youth centre or municipality hosts a peer skills-and-support circle; young people choose topics and can pause anytime.",
+      "learn": "Ask participants monthly about wellbeing, skills gained and any income or volunteering; young people decide what continues.",
+      "strengths": [
+        "High value on education",
+        "Family and community solidarity",
+        "Young, skilled population"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial: a fines de 2022, desempleo 13,1% en Cisjordania y 45,3% en Gaza; juvenil 36,1%. Financia alimentos y agua de emergencia.",
+      "stuck": "Posible cuello de botella: las capacidades y la energía de la juventud encuentran pocos caminos seguros y estables hacia el sustento.",
+      "nurture": "El gran valor que se da a la educación y una fuerte solidaridad familiar y comunitaria en condiciones difíciles.",
+      "step": "Donde sea seguro, un centro juvenil o municipio acoge un círculo de pares de habilidades y apoyo; los jóvenes eligen temas y pueden pausar.",
+      "learn": "Preguntar cada mes por bienestar, habilidades adquiridas e ingresos o voluntariado; la juventud decide qué continúa.",
+      "strengths": [
+        "Gran valor de la educación",
+        "Solidaridad familiar y comunitaria",
+        "Población joven y capacitada"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial: no fim de 2022, desemprego 13,1% na Cisjordânia e 45,3% em Gaza; juvenil 36,1%. Financia comida e água emergenciais.",
+      "stuck": "Possível gargalo: as habilidades e a energia dos jovens encontram poucos caminhos seguros e estáveis para o sustento e a contribuição.",
+      "nurture": "O grande valor dado à educação e uma forte solidariedade familiar e comunitária em condições difíceis.",
+      "step": "Onde for seguro, um centro juvenil ou município acolhe uma roda de pares de habilidades e apoio; os jovens escolhem temas e podem pausar.",
+      "learn": "Perguntar todo mês sobre bem-estar, habilidades e alguma renda ou voluntariado; os jovens decidem o que continua.",
+      "strengths": [
+        "Grande valor da educação",
+        "Solidariedade familiar e comunitária",
+        "População jovem e qualificada"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "West Bank and Gaza Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/westbankandgaza/overview",
+      "published": "2023-05",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Unemployment, youth total (% of total labor force ages 15-24) – West Bank and Gaza",
+      "publisher": "World Bank",
+      "url": "https://data.worldbank.org/indicator/SL.UEM.1524.ZS?locations=PS",
+      "published": "2022",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "harambee",
+    "friendship-bench"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

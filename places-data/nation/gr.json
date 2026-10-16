@@ -1,0 +1,68 @@
+{
+  "id": "nation/gr",
+  "scale": "nation",
+  "country": "Greece",
+  "iso2": "GR",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): 26.4% of people in Greece spend over 40% of disposable income on housing (EU 7.7%); 18.1% cannot keep home warm (EU 8.8%).",
+      "stuck": "Possible bottleneck: rent and energy take a large share of income, leaving little room for savings, care or young people's independence.",
+      "nurture": "Abundant sunshine, a legal framework for energy communities (2018), and strong family and neighbourhood ties.",
+      "step": "In one neighbourhood, 10 households and a local energy community form a study group to cost a shared rooftop solar pilot over 6 months.",
+      "learn": "After 6 months: was a decision taken, expected bill savings per household, and who was included or left out.",
+      "strengths": [
+        "Abundant solar resource",
+        "Energy community framework",
+        "Strong family networks"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): el 26,4% de las personas en Grecia gasta más del 40% de su renta en vivienda (UE 7,7%); el 18,1% no puede calentar su casa.",
+      "stuck": "Posible cuello de botella: alquiler y energía se llevan gran parte de la renta y dejan poco margen para ahorro, cuidados o emancipación juvenil.",
+      "nurture": "Mucho sol, un marco legal para comunidades energéticas (2018) y fuertes lazos familiares y vecinales.",
+      "step": "En un barrio, 10 hogares y una comunidad energética local forman un grupo de estudio para costear un piloto solar compartido en 6 meses.",
+      "learn": "A los 6 meses: si se tomó una decisión, ahorro esperado por hogar y quién quedó dentro o fuera.",
+      "strengths": [
+        "Abundante recurso solar",
+        "Marco de comunidades energéticas",
+        "Fuertes redes familiares"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): 26,4% das pessoas na Grécia gastam mais de 40% da renda com moradia (UE 7,7%); 18,1% não conseguem aquecer a casa.",
+      "stuck": "Possível gargalo: aluguel e energia levam boa parte da renda e deixam pouca margem para poupança, cuidado ou independência dos jovens.",
+      "nurture": "Muito sol, um marco legal para comunidades de energia (2018) e fortes laços familiares e de vizinhança.",
+      "step": "Num bairro, 10 famílias e uma comunidade de energia local formam um grupo de estudo para orçar um piloto solar compartilhado em 6 meses.",
+      "learn": "Após 6 meses: se houve decisão, economia esperada por família e quem ficou dentro ou fora.",
+      "strengths": [
+        "Abundante recurso solar",
+        "Marco de comunidades de energia",
+        "Fortes redes familiares"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Housing cost overburden rate, Greece and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07a?rskpovth=TOTAL&age=TOTAL&sex=T&unit=PC&geo=EL&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Inability to keep home adequately warm, Greece and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes01?hhcomp=TOTAL&rskpovth=TOTAL&unit=PC&geo=EL&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "harambee"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "nation/de",
+  "scale": "nation",
+  "country": "Germany",
+  "iso2": "DE",
+  "city": null,
+  "region": "Europe",
+  "text": {
+    "en": {
+      "context": "Eurostat (2025): 11.2% of people in Germany spend over 40% of disposable income on housing (EU 7.7%); overcrowding is 11.7% (EU 16.8%).",
+      "stuck": "Possible bottleneck: housing costs, more than space, squeeze many renting households and limit savings and local roots.",
+      "nurture": "A long tradition of housing cooperatives; the cooperative idea was added to UNESCO's intangible heritage list in 2016.",
+      "step": "In one district, a housing co-op hosts monthly open evenings for 6 months where renters explore co-op membership and shared-flat options.",
+      "learn": "Track attendance, how many join co-op lists or form groups, and what renters say; the co-op board decides whether to continue.",
+      "strengths": [
+        "Housing cooperatives",
+        "Tenant associations",
+        "Dense public transport"
+      ]
+    },
+    "es": {
+      "context": "Eurostat (2025): el 11,2% de las personas en Alemania gasta más del 40% de su renta disponible en vivienda (UE 7,7%); hacinamiento 11,7% (UE 16,8%).",
+      "stuck": "Posible cuello de botella: el coste de la vivienda, más que el espacio, aprieta a muchos hogares inquilinos y limita su ahorro y arraigo.",
+      "nurture": "Una larga tradición de cooperativas de vivienda; la idea cooperativa entró en la lista de patrimonio inmaterial de la UNESCO en 2016.",
+      "step": "En un distrito, una cooperativa de vivienda abre tardes mensuales durante 6 meses para que inquilinos conozcan la membresía y pisos compartidos.",
+      "learn": "Medir asistencia, cuántos se apuntan a listas o forman grupos, y qué dicen los inquilinos; la junta de la cooperativa decide si sigue.",
+      "strengths": [
+        "Cooperativas de vivienda",
+        "Asociaciones de inquilinos",
+        "Transporte público denso"
+      ]
+    },
+    "pt": {
+      "context": "Eurostat (2025): 11,2% das pessoas na Alemanha gastam mais de 40% da renda disponível com moradia (UE 7,7%); superlotação 11,7% (UE 16,8%).",
+      "stuck": "Possível gargalo: o custo da moradia, mais que o espaço, aperta muitas famílias inquilinas e limita poupança e raízes locais.",
+      "nurture": "Uma longa tradição de cooperativas habitacionais; a ideia cooperativa entrou na lista de patrimônio imaterial da UNESCO em 2016.",
+      "step": "Num distrito, uma cooperativa habitacional abre noites mensais por 6 meses para inquilinos conhecerem a filiação e opções de moradia compartilhada.",
+      "learn": "Medir presença, quantos entram em listas ou formam grupos, e o que dizem os inquilinos; a diretoria da cooperativa decide se continua.",
+      "strengths": [
+        "Cooperativas habitacionais",
+        "Associações de inquilinos",
+        "Transporte público denso"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Housing cost overburden rate, Germany and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho07a?rskpovth=TOTAL&age=TOTAL&sex=T&unit=PC&geo=DE&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Overcrowding rate, Germany and EU-27 (2025)",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho05a?rskpovth=TOTAL&age=TOTAL&sex=T&unit=PC&geo=DE&geo=EU27_2020&lastTimePeriod=1",
+      "published": "2026-09",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "empresas-recuperadas"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

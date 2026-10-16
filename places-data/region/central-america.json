@@ -1,0 +1,80 @@
+{
+  "id": "region/central-america",
+  "scale": "region",
+  "country": null,
+  "iso2": null,
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "WB data: remittances were about 21-30% of GDP in Guatemala, Honduras, El Salvador and Nicaragua (2024-25), under 1% in Costa Rica and Panama.",
+      "stuck": "Possible bottleneck: livelihoods tied to migration and El Niño droughts may leave rural families with few local, shared ways to weather shocks.",
+      "nurture": "Strong community institutions: village water boards, community forest concessions, and payments that reward forest care.",
+      "step": "Two community water boards or forest groups from neighbouring countries host a peer exchange visit; each group decides what to try at home.",
+      "learn": "6 months later: which practices each group adopted, kept or dropped, and whether members want a regional exchange network.",
+      "strengths": [
+        "Community water boards",
+        "Community forestry",
+        "Payments for ecosystem services",
+        "Diaspora networks"
+      ]
+    },
+    "es": {
+      "context": "Datos BM: las remesas fueron ~21-30% del PIB en Guatemala, Honduras, El Salvador y Nicaragua (2024-25) y menos del 1% en Costa Rica y Panamá.",
+      "stuck": "Posible cuello de botella: medios de vida atados a la migración y a sequías de El Niño pueden dejar a familias rurales con pocas formas comunes de resistir.",
+      "nurture": "Instituciones comunitarias fuertes: juntas de agua, concesiones forestales comunitarias y pagos que premian el cuidado del bosque.",
+      "step": "Dos juntas de agua o grupos forestales de países vecinos se visitan para aprender unos de otros; cada grupo decide qué probar en casa.",
+      "learn": "A los 6 meses: qué prácticas adoptó, mantuvo o dejó cada grupo, y si sus miembros quieren una red regional de intercambio.",
+      "strengths": [
+        "Juntas de agua comunitarias",
+        "Forestería comunitaria",
+        "Pago por servicios ambientales",
+        "Redes de la diáspora"
+      ]
+    },
+    "pt": {
+      "context": "Dados BM: as remessas foram ~21-30% do PIB na Guatemala, Honduras, El Salvador e Nicarágua (2024-25) e menos de 1% na Costa Rica e no Panamá.",
+      "stuck": "Possível gargalo: meios de vida presos à migração e às secas do El Niño podem deixar famílias rurais com poucas formas comuns de resistir a choques.",
+      "nurture": "Instituições comunitárias fortes: juntas de água, concessões florestais comunitárias e pagamentos que premiam o cuidado da floresta.",
+      "step": "Duas juntas de água ou grupos florestais de países vizinhos se visitam para aprender uns com os outros; cada grupo decide o que testar em casa.",
+      "learn": "Após 6 meses: que práticas cada grupo adotou, manteve ou abandonou, e se os membros querem uma rede regional de intercâmbio.",
+      "strengths": [
+        "Juntas de água comunitárias",
+        "Manejo florestal comunitário",
+        "Pagamento por serviços ambientais",
+        "Redes da diáspora"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "Personal remittances received (% of GDP), Central America",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/BZ;GT;SV;HN;NI;CR;PA/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json&mrnev=1",
+      "published": "2024-2025",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Honduras Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/honduras/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Guatemala Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/guatemala/overview",
+      "published": "2026",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "pico-bonito-water-boards",
+    "maya-biosphere-community-concessions",
+    "costa-rica-psa"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}

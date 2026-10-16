@@ -1,0 +1,70 @@
+{
+  "id": "nation/sv",
+  "scale": "nation",
+  "country": "El Salvador",
+  "iso2": "SV",
+  "city": null,
+  "region": "Central America",
+  "text": {
+    "en": {
+      "context": "World Bank (2025): official poverty rose from 26.8% (2019) to 30.3% (2023); remittances were 27.5% of GDP in 2025 (WB data).",
+      "stuck": "Possible bottleneck: few quality local jobs for young people, so many household budgets lean on family members working abroad.",
+      "nurture": "Inequality among the lowest in the region (Gini 39.8, 2023) and strong family ties across borders, including hometown diaspora groups.",
+      "step": "In one municipality, a youth assembly picks one trade; local workshops and a diaspora hometown group co-host 6 paid apprentices for 6 months.",
+      "learn": "At 6 and 12 months: how many apprentices earn locally, what workshops and youth report, and whether the assembly wants a second round.",
+      "strengths": [
+        "Low inequality for the region",
+        "Diaspora and family networks",
+        "Women's service centres (Ciudad Mujer model)"
+      ]
+    },
+    "es": {
+      "context": "Banco Mundial (2025): la pobreza oficial subió de 26,8% (2019) a 30,3% (2023); las remesas fueron el 27,5% del PIB en 2025 (datos BM).",
+      "stuck": "Posible cuello de botella: pocos empleos locales de calidad para jóvenes, por lo que muchos hogares dependen de familiares que trabajan fuera.",
+      "nurture": "Una desigualdad de las más bajas de la región (Gini 39,8, 2023) y fuertes lazos familiares entre países, incluidos comités de la diáspora por pueblo.",
+      "step": "En un municipio, una asamblea juvenil elige un oficio; talleres locales y un comité de la diáspora acogen a 6 aprendices pagados durante 6 meses.",
+      "learn": "A los 6 y 12 meses: cuántos aprendices generan ingresos localmente, qué dicen talleres y jóvenes, y si la asamblea quiere otra ronda.",
+      "strengths": [
+        "Baja desigualdad para la región",
+        "Redes de diáspora y familia",
+        "Centros de servicios para mujeres (modelo Ciudad Mujer)"
+      ]
+    },
+    "pt": {
+      "context": "Banco Mundial (2025): a pobreza oficial subiu de 26,8% (2019) para 30,3% (2023); as remessas foram 27,5% do PIB em 2025 (dados BM).",
+      "stuck": "Possível gargalo: poucos empregos locais de qualidade para jovens, e por isso muitas famílias dependem de parentes que trabalham no exterior.",
+      "nurture": "Uma desigualdade entre as mais baixas da região (Gini 39,8, 2023) e fortes laços familiares entre países, incluindo grupos da diáspora por cidade natal.",
+      "step": "Num município, uma assembleia de jovens escolhe um ofício; oficinas locais e um grupo da diáspora acolhem 6 aprendizes pagos por 6 meses.",
+      "learn": "Aos 6 e 12 meses: quantos aprendizes têm renda local, o que dizem oficinas e jovens, e se a assembleia quer uma segunda rodada.",
+      "strengths": [
+        "Baixa desigualdade para a região",
+        "Redes de diáspora e família",
+        "Centros de serviços para mulheres (modelo Ciudad Mujer)"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "title": "El Salvador Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/country/elsalvador/overview",
+      "published": "2025",
+      "checked": "2026-10-16"
+    },
+    {
+      "title": "Personal remittances received (% of GDP), El Salvador",
+      "publisher": "World Bank Open Data (WDI API)",
+      "url": "https://api.worldbank.org/v2/country/SV/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json&mrnev=1",
+      "published": "2025",
+      "checked": "2026-10-16"
+    }
+  ],
+  "solutions": [
+    "escuela-taller-bogota",
+    "ciudad-mujer",
+    "kudumbashree"
+  ],
+  "status": "draft-research",
+  "reviewed_by": null,
+  "updated": "2026-10-16"
+}
