@@ -22,3 +22,9 @@ UTF-8, LF, 2-space indent. Index: places-data/index.json is generated (do not ha
 Rules: every line <= 160 chars. context = 1-2 lines of what public sources show (dated). stuck = ONE bottleneck hypothesis, phrased as a hypothesis.
 nurture = an existing strength to build on. step = one small, reversible, locally-led step. learn = how to know if it helps.
 >= 2 sources per place, each opened and confirmed (HTTP 200) and actually supporting the context line. No invented numbers. Neutral on politics.
+
+Optional field "painting" (any place; added 2026-10-29). Shown under the simple answer on the place view:
+  "painting": { "src": "assets/paintings/<id>.webp",          // local file under assets/, webp, max width 1600
+                "alt": { "en": "...", "es": "..." },          // describes the image for screen readers
+                "panels": { "en": ["Roots: ...", "Now: ...", "Stuck: ...", "Renewed: ..."], "es": [ ...4 lines ] } }
+  One caption per panel, left to right, each <= 120 chars. Omit the field when there is no painting.

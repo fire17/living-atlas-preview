@@ -2,3 +2,4 @@ Place names: GeoNames, https://www.geonames.org/
 License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
 Subset via geonamescache 3.0.2 https://github.com/yaph/geonamescache
 Bundled 2026-10-09. Cities15000 subset, not an exhaustive settlement list. Reduced to IDs, names, country codes and administrative codes; sorted by name. Country labels localized in the browser. No political recognition or present-day conditions are inferred from listings.
+Split per country into cities/<CC>.json on 2026-10-16 (same data), so a visitor downloads only the chosen country's list instead of the whole 1 MB file.

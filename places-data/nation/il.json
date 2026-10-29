@@ -64,6 +64,27 @@
     "fureai-kippu",
     "friendship-bench"
   ],
+  "painting": {
+    "src": "assets/paintings/il.webp",
+    "alt": {
+      "en": "Four-panel painting in the style of Bosch's Garden of Earthly Delights: an Israeli landscape moving from shared roots, through a busy present and people sealed in glass spheres, to a renewed community garden. A river runs through all four panels.",
+      "es": "Pintura de cuatro paneles al estilo del Jardín de las Delicias de El Bosco: un paisaje israelí que pasa de raíces compartidas, por un presente agitado y personas encerradas en esferas de vidrio, a un jardín comunitario renovado. Un río cruza los cuatro paneles."
+    },
+    "panels": {
+      "en": [
+        "Roots: neighbours share bread under an olive tree. Togetherness was possible.",
+        "Now: colourful and busy, yet at the edges people sit alone in glass bubbles.",
+        "Stuck: no one suffers, everyone is sealed off; a giant ear hears nothing, the spring thins.",
+        "Renewed: the spheres open; young and old meet in a tree-shaped centre and workshop shed."
+      ],
+      "es": [
+        "Raíces: vecinos comparten el pan bajo un olivo. Estar juntos era posible.",
+        "Ahora: colorido y lleno de vida, pero en los bordes hay personas solas en burbujas de vidrio.",
+        "Atascado: nadie sufre, todos están aislados; una oreja gigante no oye nada, el manantial mengua.",
+        "Renovado: las esferas se abren; jóvenes y mayores se encuentran en un centro con forma de árbol y un taller."
+      ]
+    }
+  },
   "status": "reviewed",
   "reviewed_by": "Sharon Gal-Or",
   "updated": "2026-10-17"
